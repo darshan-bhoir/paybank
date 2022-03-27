@@ -1,0 +1,5 @@
+# Project exclude paths
+/accounts-data-service/target/
+/cbd-web-service/target/
+/cloud-gateway-service/target/
+/transaction-builder-service/target/
